@@ -22,13 +22,21 @@
 <!-- 3. STATS & TOP LANGUAGES SECTION           -->
 <!-- ========================================== -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=560" height="180" alt="Top Languages" />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.shion.dev/api?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=false" width="100%" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td width="2%"></td>
+      <td align="center" valign="middle" width="48%">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=540" width="100%" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- ========================================== -->
