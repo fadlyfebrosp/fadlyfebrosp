@@ -9,10 +9,8 @@
   </picture>
 </div>
 
-<br/>
-
 <!-- ========================================== -->
-<!-- 2. GITHUB STREAK STATS SECTION            -->
+<!-- 2. GITHUB STREAK STATS SECTION             -->
 <!-- ========================================== -->
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -20,10 +18,21 @@
   </a>
 </div>
 
-<br/>
+<!-- ========================================== -->
+<!-- 3. STATS & TOP LANGUAGES SECTION           -->
+<!-- ========================================== -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.shion.dev/api?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=580" height="180" alt="Top Languages" />
+  </a>
+</div>
 
 <!-- ========================================== -->
-<!-- 3. FEATURED PROJECTS DASHBOARD SECTION     -->
+<!-- 4. FEATURED PROJECTS DASHBOARD SECTION      -->
 <!-- ========================================== -->
 <div align="center">
   <picture>
@@ -33,10 +42,8 @@
   </picture>
 </div>
 
-<br/>
-
 <!-- ========================================== -->
-<!-- 4. DONATION & SUPPORT SECTION              -->
+<!-- 5. DONATION & SUPPORT SECTION              -->
 <!-- ========================================== -->
 <div align="center">
   <picture>
@@ -46,10 +53,8 @@
   </picture>
 </div>
 
-<br/>
-
 <!-- ========================================== -->
-<!-- 5. CONTRIBUTION SNAKE ANIMATION SECTION    -->
+<!-- 6. CONTRIBUTION SNAKE ANIMATION SECTION    -->
 <!-- ========================================== -->
 <div align="center">
   <picture>
@@ -59,14 +64,15 @@
   </picture>
 </div>
 
-<br/>
-
 <!-- ========================================== -->
-<!-- 6. SOCIAL MEDIA & CONTACT BADGES           -->
+<!-- 7. SOCIAL MEDIA & CONTACT BADGES           -->
 <!-- ========================================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/fadly-febro-519273204" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-121826?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-121826?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/fadlyfebro" target="_blank">
+    <img src="https://img.shields.io/badge/KAGGLE-121826?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
   </a>
   <a href="https://instagram.com/fadly.febro" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-121826?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" />
