@@ -27,7 +27,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=580" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fadlyfebrosp&bg_color=0A101F&border_color=00000000&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=560" height="180" alt="Top Languages" />
   </a>
 </div>
 
