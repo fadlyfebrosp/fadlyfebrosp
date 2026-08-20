@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 280" width="1260" height="280">
+    <style>
+        .fade-in { opacity: 0; animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+        .slide-right { opacity: 0; animation: slideRight 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.3s; }
+        .card-border { transition: stroke 0.3s ease; }
+        g:hover .card-border { stroke: #22D3EE; }
+        .link-text { transition: fill 0.2s ease; cursor: pointer; }
+        .link-text:hover { fill: #38BDF8; text-decoration: underline; }
+        @keyframes fadeUp {
+            0% { opacity: 0; transform: translateY(20px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes slideRight {
+            0% { opacity: 0; transform: translateX(-15px); }
+            100% { opacity: 1; transform: translateX(0); }
+        }
+    </style>
+    <rect width="1260" height="280" fill="#0D1117"/>
+    
+    <!-- Top Terminal Header -->
+    <text x="20" y="30" fill="#22D3EE" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="2">SUPPORT.LIST</text>
+    <text x="150" y="30" fill="#8B949E" font-family="monospace" font-size="13">./donate.sh --all</text>
+    <rect x="310" y="19" width="8" height="14" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <g class="fade-in delay-1">
+<rect class="card-border" x="20" y="60" width="600" height="200" fill="#161B22" stroke="#30363D" stroke-width="1.5" rx="8"/>
+<circle cx="40" cy="82" r="3" fill="#22D3EE">
+<animate attributeName="opacity" values="1; 0.3; 1" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="52" y="86" fill="#8B949E" font-family="monospace" font-size="12">support / buy-me-a-coffee</text>
+<circle cx="600" cy="82" r="4" fill="#30363D"/>
+<g class="slide-right">
+<rect x="40" y="115" width="44" height="44" fill="#FFDD00" rx="8"/>
+<text x="62" y="144" fill="#000000" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle">B</text>
+<text x="100" y="130" fill="#F0F6FC" font-family="sans-serif" font-size="19" font-weight="bold">Buy Me a Coffee_</text>
+<text x="100" y="152" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="13">Support continuous learning and open-source projects.</text>
+</g>
+<g class="slide-right">
+<rect x="100" y="190" width="72.5" height="24" fill="#1F1B40" rx="12"/>
+<text x="136.25" y="206" fill="#A5B4FC" font-family="monospace" font-size="11" text-anchor="middle">Support</text>
+</g>
+<g class="slide-right">
+<rect x="180.5" y="190" width="65.0" height="24" fill="#1F1B40" rx="12"/>
+<text x="213.0" y="206" fill="#A5B4FC" font-family="monospace" font-size="11" text-anchor="middle">Coffee</text>
+</g>
+<g class="slide-right">
+<rect x="253.5" y="190" width="80.0" height="24" fill="#1F1B40" rx="12"/>
+<text x="293.5" y="206" fill="#A5B4FC" font-family="monospace" font-size="11" text-anchor="middle">One-Time</text>
+</g>
+<g class="slide-right">
+<a href="https://buymeacoffee.com/fadlyfebroz" target="_blank">
+<text x="100" y="240" fill="#22D3EE" font-family="monospace" font-size="12" class="link-text">&#9656; @fadlyfebroz &#8599;</text>
+</a>
+</g>
+<g class="slide-right">
+<circle cx="410" cy="136" r="4" fill="#FFDD00"/>
+<text x="422" y="140" fill="#8B949E" font-family="monospace" font-size="11">Patron 100%</text>
+</g>
+<circle cx="550" cy="175" r="36" fill="none" stroke="#22D3EE" stroke-width="8" opacity="0.3"/>
+<circle cx="550" cy="175" r="36" fill="none" stroke="#FFDD00" stroke-width="8" stroke-dasharray="0 226.1946710584651" transform="rotate(-90 550 175)">
+  <animate attributeName="stroke-dasharray" values="0 226.1946710584651; 192.26547039969535 226.1946710584651" begin="0.6000000000000001s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" keyTimes="0; 1"/>
+</circle>
+<text x="550" y="180" fill="#F0F6FC" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0; 1" begin="1.1s" dur="0.8s" fill="freeze"/>100%</text>
+</g>
+<g class="fade-in delay-2">
+<rect class="card-border" x="640" y="60" width="600" height="200" fill="#161B22" stroke="#30363D" stroke-width="1.5" rx="8"/>
+<circle cx="660" cy="82" r="3" fill="#22D3EE">
+<animate attributeName="opacity" values="1; 0.3; 1" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="672" y="86" fill="#8B949E" font-family="monospace" font-size="12">support / paypal-me</text>
+<circle cx="1220" cy="82" r="4" fill="#30363D"/>
+<g class="slide-right">
+<rect x="660" y="115" width="44" height="44" fill="#00457C" rx="8"/>
+<text x="682" y="144" fill="#FFFFFF" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle">P</text>
+<text x="720" y="130" fill="#F0F6FC" font-family="sans-serif" font-size="19" font-weight="bold">PayPal Support_</text>
+<text x="720" y="152" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="13">Direct international support for server &amp; dev costs.</text>
+</g>
+<g class="slide-right">
+<rect x="720" y="190" width="65.0" height="24" fill="#1F1B40" rx="12"/>
+<text x="752.5" y="206" fill="#A5B4FC" font-family="monospace" font-size="11" text-anchor="middle">Global</text>
+</g>
+<g class="slide-right">
+<rect x="793.0" y="190" width="65.0" height="24" fill="#1F1B40" rx="12"/>
+<text x="825.5" y="206" fill="#A5B4FC" font-family="monospace" font-size="11" text-anchor="middle">PayPal</text>
+</g>
+<g class="slide-right">
+<rect x="866.0" y="190" width="72.5" height="24" fill="#1F1B40" rx="12"/>
+<text x="902.25" y="206" fill="#A5B4FC" font-family="monospace" font-size="11" text-anchor="middle">Sponsor</text>
+</g>
+<g class="slide-right">
+<a href="https://paypal.me/fdlyfbro" target="_blank">
+<text x="720" y="240" fill="#22D3EE" font-family="monospace" font-size="12" class="link-text">&#9656; paypal.me/fdlyfbro &#8599;</text>
+</a>
+</g>
+<g class="slide-right">
+<circle cx="1030" cy="136" r="4" fill="#00457C"/>
+<text x="1042" y="140" fill="#8B949E" font-family="monospace" font-size="11">Sponsor 100%</text>
+</g>
+<circle cx="1170" cy="175" r="36" fill="none" stroke="#A78BFA" stroke-width="8" opacity="0.3"/>
+<circle cx="1170" cy="175" r="36" fill="none" stroke="#00457C" stroke-width="8" stroke-dasharray="0 226.1946710584651" transform="rotate(-90 1170 175)">
+  <animate attributeName="stroke-dasharray" values="0 226.1946710584651; 192.26547039969535 226.1946710584651" begin="0.8s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1" keyTimes="0; 1"/>
+</circle>
+<text x="1170" y="180" fill="#F0F6FC" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0; 1" begin="1.3s" dur="0.8s" fill="freeze"/>100%</text>
+</g>
+</svg>
